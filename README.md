@@ -1,13 +1,8 @@
-# README
-## This is the README for your extension "i-color"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# I_Color
+> A pleasant, balanced theme with a focus on contrast
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This theme was chosen specifically to establish a consistent level of contrast for each color chosen, and to have contrast between syntactic elements next to each other.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Issues or PRs welcome, but the only language that I will devote significant special attention to at this time is Rust, as this is my personal theme developed specifically for it.
 
 **Enjoy!**
