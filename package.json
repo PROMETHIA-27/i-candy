@@ -1,6 +1,8 @@
 {
     "name": "i-candy",
     "displayName": "I_Candy",
+    "author": "PROMETHIA-27",
+    "repository": "https://github.com/PROMETHIA-27/i-candy",
     "description": "A pleasant, balanced theme with a focus on contrast",
     "version": "0.0.1",
     "engines": {
