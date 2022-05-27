@@ -1,0 +1,21 @@
+{
+    "name": "i-candy",
+    "displayName": "I_Candy",
+    "description": "A pleasant, balanced theme with a focus on contrast",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "I_Candy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/I_Candy-color-theme.json"
+            }
+        ]
+    }
+}
