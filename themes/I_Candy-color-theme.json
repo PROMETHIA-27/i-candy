@@ -818,6 +818,7 @@
         "type": "#7E5B8F",
         "struct": "#7E5B8F",
         "enum": "#7E5B8F",
+		"enumMember": "#129A20",
         "function": "#12967A",
         "method": "#12967A",
         "keyword": "#129A20",
