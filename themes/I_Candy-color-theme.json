@@ -825,7 +825,7 @@
         "keyword": "#129A20",
         "variable": "#508BB1",
         "parameter": "#508BB1",
-        "property": "#A27D68",
+        "property": "#508BB1",
         "number": "#95852C",
         "string": "#95852C",
         "arithmetic": "#DA5D52",
@@ -843,8 +843,8 @@
         "attributeBracket": "#845F5E",
         "generic.attribute": "#845F5E",
         "derive": "#845F5E",
-        "macro": "#A27D68",
-        "macroBang": "#A27D68",
+        "macro": "#C56B66",
+        "macroBang": "#C56B66",
         "comment": "#6b6b6b"
     }
 }
