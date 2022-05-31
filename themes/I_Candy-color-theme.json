@@ -1,5 +1,6 @@
 {
 	"name": "I_Candy",
+	"semanticHighlighting": true,
 	"colors": {
 		"editorInlayHint.background": "#00000000",
 		"editorInlayHint.foreground": "#845f5e",
